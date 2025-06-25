@@ -1,4 +1,5 @@
 User can play a game in which they have to stop the timer once they estimate that time is (almost) up.
+Feel free to play - https://6dtt33.csb.app/
 
 The preview of the game homepage 
 
